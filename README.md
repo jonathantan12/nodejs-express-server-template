@@ -34,7 +34,7 @@ npm -v
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/nodejs-express-server-template.git
+   git clone https://github.com/jonathantan12/nodejs-express-server-template.git
    cd nodejs-express-server-template
    ```
 
