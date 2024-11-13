@@ -135,5 +135,5 @@ Contributions are welcome! Feel free to open an issue or submit a pull request.
 
 ## **Author**
 
-- **Your Name**  
+- **Jonathan Tan**  
   [GitHub Profile](https://github.com/jonathantan12)
